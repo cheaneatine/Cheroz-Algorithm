@@ -102,9 +102,9 @@ end procedure
 
 ## Authors  
 
-- **[Cherry Lee Jimenez]**(https://github.com/cheaneatine)
-- **[Imroz Mae Khan]**(https://github.com/imrozkhan214)
-- **[Junar Landicho]**(https://github.com/junarlandicho)  
+- [Cherry Lee Jimenez](https://github.com/cheaneatine)
+- [Imroz Mae Khan](https://github.com/imrozkhan214)
+- [Junar Landicho](https://github.com/junarlandicho)  
 
 Department of Computer Science  
 **University of Science and Technology of Southern Philippines**
